@@ -2,7 +2,7 @@
 
 Welcome to my portfolio. I am Alexandria White, a Full Stack Developer currently enrolled in Vanderbilt University's Coding Boot Camp. I am working diligently to master the most in-demand web development technologies, including HTML5, CSS3, JavaScript, jQuery, React.js, Node.js, and more. With a rigorous 24-week curriculum and hands-on collaboration with other professionals on real-world projects, I am gaining valuable experience in full-stack web development, building complex applications to expand my professional portfolio. I am passionate about applying my skills to create innovative solutions and continuously enhancing my knowledge and expertise as a developer.
 
-<[giphy](https://user-images.githubusercontent.com/114694410/224874450-f5f5eb45-da69-402b-b05d-b1ee5b3d468f.gif)>
+<img src= [giphy](https://user-images.githubusercontent.com/114694410/224874450-f5f5eb45-da69-402b-b05d-b1ee5b3d468f.gif)>
 
 
 
