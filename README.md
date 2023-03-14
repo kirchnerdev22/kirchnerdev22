@@ -21,7 +21,7 @@ Welcome to my portfolio. I am Alexandria White, a Full Stack Developer currently
 
 Here are some stats about my GitHub activity:
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kirchnerdev22e&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kirchnerdev22&layout=compact)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=kirchnerdev22&count_private=true&show_icons=true&theme=onedark)
 
