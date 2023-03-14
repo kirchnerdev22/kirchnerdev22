@@ -1,4 +1,4 @@
-# Howdy ![cowboy-hat-transparent-emoji-9](https://user-images.githubusercontent.com/114694410/224882932-522430ec-f79d-4475-a26a-010a51f215f6.png)
+# Hey! Nice to meet you!
 
 
 Hi, my name is Trenton Kirchner and I'm a 26-year-old emerging full stack developer from northern Indiana, currently living in Nashville. 
